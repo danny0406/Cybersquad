@@ -1,5 +1,8 @@
-Feature de prueba iniciado.
-Curso Git-GitHub Scesi 2024
+## Práctica grupal 
+## Curso Git y GitHub
 
-Release de prueba iniciado.
-Version 1.0.0 
+### Nombre del equipo - TRUE DATA DETECTIVES
+### Integrantes:
+- Kevin Danny Poma Apaza
+- Ariel Edmilzon Luna Tudela
+- Daniela De La Riva Lenz
