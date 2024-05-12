@@ -1,0 +1,70 @@
+body {
+  font-family: 'Press Start 2P', cursive; 
+  margin: 0;
+  padding: 0;
+  background-image: url('background.jpg'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff; 
+}
+
+header {
+  background-color: #3498db; 
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.news {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+article {
+  background-color: #1f1f1f; 
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+  margin: 20px;
+  max-width: 300px;
+  padding: 20px;
+  transition: transform 0.3s ease-in-out;
+}
+
+article:hover {
+  transform: translateY(-5px);
+}
+
+article h2 {
+  color: #1abc9c; 
+}
+
+article p {
+  color: #ccc; 
+}
+
+article a {
+  display: inline-block;
+  background: #1abc9c;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  transition: background 0.3s ease-in-out;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  -ms-transition: background 0.3s ease-in-out;
+  -o-transition: background 0.3s ease-in-out;
+}
+
+article a:hover {
+  background: #16a085; 
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
