@@ -43,3 +43,24 @@ article h2 {
 article p {
   color: #ccc; 
 }
+
+article a {
+  display: inline-block;
+  background: #1abc9c; 
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  transition: background 0.3s ease-in-out;
+}
+
+article a:hover {
+  background: #16a085; 
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
