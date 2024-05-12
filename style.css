@@ -46,12 +46,16 @@ article p {
 
 article a {
   display: inline-block;
-  background: #1abc9c; 
+  background: #1abc9c;
   color: #fff;
   text-decoration: none;
   padding: 10px 20px;
   border-radius: 20px;
   transition: background 0.3s ease-in-out;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  -ms-transition: background 0.3s ease-in-out;
+  -o-transition: background 0.3s ease-in-out;
 }
 
 article a:hover {
