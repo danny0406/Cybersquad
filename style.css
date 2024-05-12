@@ -31,3 +31,15 @@ article {
   padding: 20px;
   transition: transform 0.3s ease-in-out;
 }
+
+article:hover {
+  transform: translateY(-5px);
+}
+
+article h2 {
+  color: #1abc9c; 
+}
+
+article p {
+  color: #ccc; 
+}
