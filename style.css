@@ -7,3 +7,10 @@ body {
   background-repeat: no-repeat;
   color: #fff; 
 }
+
+header {
+  background-color: #3498db; 
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
